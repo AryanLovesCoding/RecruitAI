@@ -7,13 +7,13 @@
 ## Screenshots
 
 ### Landing Page
-![RecruitAI Landing Page](assets/screenshot_hero.png)
+![RecruitAI Landing Page](assets/LandingPage.png)
 
 ### Upload Interface
-![Upload Job Description and Resumes](assets/screenshot_upload.png)
+![Upload Job Description and Resumes](assets/UploadPage.png)
 
 ### Screening Results
-![AI-Ranked Candidate Results](assets/screenshot_results.png)
+![AI-Ranked Candidate Results](assets/ScreeningPage.png)
 
 ---
 
